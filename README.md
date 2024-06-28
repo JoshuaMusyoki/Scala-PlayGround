@@ -9,3 +9,6 @@ Let's dive into learning Scala Now.
 type **sbt** on your terminal
 followed by **~run**
 
+## Scala Basics
+
+
